@@ -1,4 +1,4 @@
 First commit
-First commit (test1)
-Second commit (test1)
-Third commit (test1)
+First test1
+Second test1
+Third test1
